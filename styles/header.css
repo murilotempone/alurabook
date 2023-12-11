@@ -45,7 +45,7 @@ li {
 }
 
 .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer {
-    background-image: url(/assets/icon/menu_black_24dp\ 1.svg);
+    background-image: url(/assets/icon/menu_branco.svg);
 }
 
 .container__botao:checked~.container__rotulo {
