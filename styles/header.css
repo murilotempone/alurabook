@@ -87,6 +87,10 @@ li {
     display: none;
 }
 
+.lista-menu__item:hover>.lista-menu__link {
+        color: var(--branco);
+}
+
 @media screen and (min-width: 1024px) { 
    
     .container__titulo, .container__titulo--negrito {
